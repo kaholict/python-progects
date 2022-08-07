@@ -1,1 +1,1 @@
-# hangman-game-by-pyrhon-russian-version
+# pyrhon-programs
